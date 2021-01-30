@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/20190512115123.jpg</file>
+        <file>image/20190512115255.jpg</file>
+        <file>image/BackButton.png</file>
+        <file>image/BackButtonSelected.png</file>
+        <file>image/BackButtonSound.wav</file>
+        <file>image/BoardNode.png</file>
+        <file>image/Coin0001.png</file>
+        <file>image/Coin0002.png</file>
+        <file>image/Coin0003.png</file>
+        <file>image/Coin0004.png</file>
+        <file>image/Coin0005.png</file>
+        <file>image/Coin0006.png</file>
+        <file>image/Coin0007.png</file>
+        <file>image/Coin0008.png</file>
+        <file>image/ConFlipSound.wav</file>
+        <file>image/hongkong.jpg</file>
+        <file>image/LevelCompletedDialogBg.png</file>
+        <file>image/LevelIcon.png</file>
+        <file>image/LevelWinSound.wav</file>
+        <file>image/MenuSceneBg.png</file>
+        <file>image/MenuSceneStartButton.png</file>
+        <file>image/OtherSceneBg.png</file>
+        <file>image/PlayLevelSceneBg.png</file>
+        <file>image/TapButtonSound.wav</file>
+        <file>image/Title.png</file>
+        <file>image/bgm.wav</file>
+        <file>image/zb_intro_backImg.png</file>
+        <file>image/main_bgDown.jpg</file>
+        <file>image/zb_intro_Btn_nor0.png</file>
+        <file>image/zb_intro_Btn_nor2.png</file>
+        <file>image/zb_intro_Btn_pre0.png</file>
+        <file>image/zb_intro_Btn_pre2.png</file>
+        <file>image/select_bg.jpg</file>
+        <file>image/contra.jpg</file>
+        <file>image/qia_intro1.png</file>
+        <file>image/bg1.jpg</file>
+        <file>image/gra_planeImg1.png</file>
+        <file>image/bomb1.png</file>
+    </qresource>
+</RCC>
